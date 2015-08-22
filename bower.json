@@ -1,0 +1,21 @@
+{
+  "name": "prestonmueller_site",
+  "version": "0.0.1",
+  "authors": [
+    "Preston Mueller <skierjunk@gmail.com>"
+  ],
+  "description": "The site at prestonmueller.com",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://prestonmueller.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2"
+  }
+}
